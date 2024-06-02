@@ -1,2 +1,2 @@
-# cursoinicio
-inicio del curso de henry
+iniciando el pre curso de henry
+carlos flores
