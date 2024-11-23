@@ -22,4 +22,4 @@ Comandos más importantes para el manejo de la terminal:
 
     rm -r carpetaPrueba: elimina la carpeta de nombre "carpetaPrueba" 
 
-autor: carlos flores
+autor: carlos flores Arevalo
